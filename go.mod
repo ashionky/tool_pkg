@@ -1,4 +1,4 @@
-module meross_pkg
+module tool_pkg
 
 go 1.15
 
