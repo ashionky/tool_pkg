@@ -1,4 +1,4 @@
-module tool_pkg
+module github.com/ashionky/tool_pkg
 
 go 1.15
 
